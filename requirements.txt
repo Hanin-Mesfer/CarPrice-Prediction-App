@@ -1,3 +1,4 @@
-streamlit==1.32.0
-pickle
-numpy==1.26.4
+streamlit
+pickle-mixin
+scikit-learn
+pandas
